@@ -73,6 +73,10 @@ Additionally, insights gleaned from age-related patterns highlight the dynamic c
 The interactive visualizations crafted in Tableau, showcased in the Hair Loss Analysis Dashboard, serve as a powerful tool for disseminating these insights and empowering individuals to take proactive steps towards preserving and enhancing their hair health.
 
 ## Links
+
 Help from [ChatGPT](https://chat.openai.com/share/181a28ed-3537-443d-9eec-ed6dd99ea794)
+
 Full Queries [Here](https://docs.google.com/document/d/1wTqrQ5PP8jc8IcAaxmM6ubTsI3z7qkYxejxAlaWYGUs/edit?usp=sharing)
+
 [Tableau Dashboard](https://public.tableau.com/app/profile/sanjeev.lama/viz/HairLoss/Dashboard1?publish=yes)
+
